@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ! nesting
+=======
+!nested loops program
+>>>>>>> experimental
 program  xytab
  	 	implicit none
   		!constructs a table of z=x/y for values of x from 1 to 2 and
