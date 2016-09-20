@@ -32,6 +32,8 @@
 			<Add option="-Wall" />
 		</Compiler>
 		<Unit filename="main.f95" />
+		<Unit filename="sub.f95" />
+		<Unit filename="subs.sh" />
 		<Extensions>
 			<code_completion />
 			<debugger />
