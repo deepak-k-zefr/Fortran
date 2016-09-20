@@ -32,6 +32,7 @@
 			<Add option="-Wall" />
 		</Compiler>
 		<Unit filename="main.f95" />
+		<Unit filename="part2.f95" />
 		<Extensions>
 			<code_completion />
 			<debugger />
