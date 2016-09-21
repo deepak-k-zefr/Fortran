@@ -1,4 +1,4 @@
 # Fortran
-Learning Fortran
+Learning Fortran.
 First steps in Fortran.
-Will be used for High Performance Computing.
+Next-------> High Performance Computing in Fortran.
